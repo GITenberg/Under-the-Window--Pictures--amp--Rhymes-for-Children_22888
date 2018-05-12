@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6307
     wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22888#Under-the-Window--Pictures--amp--Rhymes-for-Children
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
 identifiers:
