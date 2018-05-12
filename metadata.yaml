@@ -1,0 +1,29 @@
+_repo: Under-the-Window--Pictures--amp--Rhymes-for-Children_22888
+_version: 0.1.0
+alternative_title: 'Under the Window: Pictures and Rhymes for Children'
+covers:
+- cover_type: archival
+  image_path: 22888-h/images/cover01-f.jpg
+creator:
+  author:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+description: ''
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: 'Under the Window: Pictures & Rhymes for Children'
+url: http://www.gutenberg.org/ebooks/22888
